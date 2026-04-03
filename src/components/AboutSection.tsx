@@ -35,9 +35,9 @@ const AboutSection = () => {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
         >
-          <p className="text-sm font-body tracking-[0.3em] uppercase text-primary mb-3">✦ Sobre Mí ✦</p>
+          <p className="text-sm font-body tracking-[0.3em] uppercase text-primary mb-3">✦ About me ✦</p>
           <h2 className="text-4xl md:text-5xl font-display font-bold text-gradient-gold">
-            Mi Historia
+            My History
           </h2>
         </motion.div>
 

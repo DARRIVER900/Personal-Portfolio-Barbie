@@ -34,7 +34,7 @@ const SkillsSection = () => {
           viewport={{ once: true }}
         >
           <p className="text-sm font-body tracking-[0.3em] uppercase text-primary mb-3">✦ Skills ✦</p>
-          <h2 className="text-4xl md:text-5xl font-display font-bold text-gradient-gold">My Paleta</h2>
+          <h2 className="text-4xl md:text-5xl font-display font-bold text-gradient-gold">My palette</h2>
           <p className="text-muted-foreground mt-4 font-body italic">Each tool is a color on my digital canvas</p>
         </motion.div>
 
