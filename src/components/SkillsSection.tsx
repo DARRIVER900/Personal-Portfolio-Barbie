@@ -5,13 +5,13 @@ const skillCategories = [
     category: "Frontend",
     accent: "border-sunflower-gold/30",
     dotColor: "bg-sunflower-gold",
-    skills: ["React", "TypeScript", "Tailwind CSS", "HTML/CSS", "JavaScript"],
+    skills: ["React", "TypeScript", "Tailwind CSS", "HTML/CSS", "JavaScript", "Bootstrap"],
   },
   {
     category: "UI/UX Design",
     accent: "border-lavender-swirl/30",
     dotColor: "bg-lavender-swirl",
-    skills: ["Figma", "Design Systems", "Prototyping", "User Research", "Usability Testing", "Data-informed Design", "UX Metrics"],
+    skills: ["Figma", "Design Systems", "Prototyping", "User Research", "Usability Testing", "Data-informed Design", "UX Metrics", "UXtweak"],
   },
   {
     category: "Tools",
