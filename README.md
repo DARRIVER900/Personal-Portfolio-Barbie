@@ -1,74 +1,63 @@
-# Welcome to your Lovable project
+# ✨ Portfolio — Barbara Rivera
 
-## Project info
+Personal portfolio showcasing my work in **UI/UX design** and **frontend development**, focused on building intuitive, user-centered digital experiences.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🌐 Live Preview
+👉 [View Portfolio](#)  
 
-There are several ways of editing your application.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🎨 About the Project
 
-Changes made via Lovable will be committed automatically to this repo.
+This portfolio highlights selected projects where I combine **UX research, UI design and frontend development** to create functional and visually engaging digital products.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📂 Featured Projects
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🟡 CareBites  
+UX/UI case study focused on reducing food waste by connecting donors and beneficiaries through an intuitive mobile experience.  
+🔗 [View Prototype](https://www.figma.com/proto/HmxdVwiPF2fpuahHc1xq5l/Care-Bites?node-id=59-105&t=u1E1M0K8kJZa1X6N-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=69%3A336)
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### ☕ Coffee App  
+Mobile UI design focused on improving product discovery and simplifying the ordering experience.  
+🔗 [View Prototype](https://www.figma.com/proto/Fhp4FgFadeicumZVQAQ6wW/Cafeteria?node-id=114-2080&t=qwfL6OWdY3GQ9OsY-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4&show-proto-sidebar=1)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠️ Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- React  
+- Tailwind CSS  
+- Framer Motion  
+- Figma  
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🎯 Purpose
 
-**Use GitHub Codespaces**
+This project aims to showcase my ability to:
+- Research user needs  
+- Design intuitive interfaces  
+- Build responsive frontend experiences  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📬 Contact
 
-This project is built with:
+Feel free to connect or reach out:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- GitHub: *(your username)*  
+- LinkedIn: *(your link)*  
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+✨ *Designed and developed with a focus on detail, usability and aesthetics.*
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-
+Made with Lovable with React, Vite, Tailwind
